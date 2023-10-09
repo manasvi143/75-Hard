@@ -1,9 +1,9 @@
-package Day15;
+package Day16;
 
 public class ListNode {
      int val;
      ListNode next;
-     public ListNode(int x) {
+     ListNode(int x) {
          val = x;
         next = null;
     }
